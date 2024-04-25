@@ -26,7 +26,7 @@ public class Holamundo {
         }
        System.out.println("El factorial es " + fact);
        System.out.println("guasdvsvdrdo " + fact);
-       System.out.println("noooooooooooooooooooooo");
+       System.out.println("nooooooooooooovcbooooooooo");
        System.out.println("El factorialerthrsth es " + fact);
     }
 
